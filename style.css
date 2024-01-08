@@ -13,13 +13,6 @@
 html {
   scroll-behavior: smooth;
 }
-body{
-  background-image: url(images/bg.png),url(images/bg_6.png),url(images/bg_9.jpg);
-  background-position: center, top,bottom;
-  background-repeat: no-repeat;
-  opacity: 0.879;
- 
-}
 
 
 .max-width {
